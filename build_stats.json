@@ -1,0 +1,16 @@
+{
+  "geocoded": [
+    "AfghanistanDAD_GeocodedResearchRelease_Level1": {
+      "runs": 152,
+      "score1": .59,
+      "score2": .45,
+      "score3": .25
+    },
+    "IraqDAD_GeocodedResearchRelease_Level1": {
+      "runs": 52,
+      "score1": .39,
+      "score2": .45,
+      "score3": .15
+    },
+  ],
+}
