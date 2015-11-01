@@ -1,0 +1,34 @@
+{
+  "geocoded": [
+    {
+      "test1": [
+        {
+          "runs": 152,
+          "scores": [
+            {
+              "geographic_precision": 59,
+              "geographic_coverage": 45,
+              "date_coverage": 25,
+              "sector_detail": 25,
+              "compare_financials": 25
+            }
+          ]
+        }
+      ],
+      "test2": [
+        {
+          "runs": 52,
+          "scores": [
+            {
+              "geographic_precision": 59,
+              "geographic_coverage": 45,
+              "date_coverage": 25,
+              "sector_detail": 25,
+              "compare_financials": 25
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
