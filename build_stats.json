@@ -5,6 +5,7 @@
         {
           "donors": 69, 
           "runs": 2, 
+          "geocoded projects": 379, 
           "geocoded commitments": 3150754459.4130025, 
           "locations": 5022, 
           "years": "1995-2014", 
@@ -20,14 +21,14 @@
             }
           ], 
           "total commitments": 6548670559.059006, 
-          "geocoded projects": 379, 
           "total disbursements": 4612884549.299
         }
       ], 
       "IraqDAD": [
         {
           "donors": 21, 
-          "runs": 1, 
+          "runs": 2, 
+          "geocoded projects": 1324, 
           "geocoded commitments": 9659112600, 
           "locations": 3624, 
           "years": "2002-2014", 
@@ -43,7 +44,6 @@
             }
           ], 
           "total commitments": 9685503171, 
-          "geocoded projects": 1324, 
           "total disbursements": 3727768427
         }
       ]
