@@ -20,7 +20,7 @@ This repo houses build-stats for dataset creation
 | geographic_coverage | finds the percentage of projects that are geocoded |
 | geographic_precision | percentage of all locations that have a precision code 1,2, or 3 value |
 | compare_financials | compares the bulk sum of commitments from the projects table to the bulk sum of commitments from the AidData API |
-| sector_detail | percentage of projects that DO NOT have ambiguous sector information (codes of 430|43010|988|99810) |
+| sector_detail | percentage of projects that DO NOT have ambiguous sector information (codes of 430, 43010, 988, 99810) |
 
 
     
