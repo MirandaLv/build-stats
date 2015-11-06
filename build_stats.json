@@ -4,7 +4,8 @@
       "HondurasAMP": [
         {
           "donors": 69, 
-          "runs": 1, 
+          "runs": 2, 
+          "geocoded projects": 379, 
           "geocoded commitments": 3150754459.4130025, 
           "locations": 5022, 
           "years": "1995-2014", 
@@ -20,7 +21,6 @@
             }
           ], 
           "total commitments": 6548670559.059006, 
-          "geocoded projects": 379, 
           "total disbursements": 4612884549.299
         }
       ]
