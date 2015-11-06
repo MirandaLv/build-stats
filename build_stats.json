@@ -1,10 +1,34 @@
 {
   "GeocodedResearchRelease": [
     {
+      "SenegalAMP": [
+        {
+          "donors": 79, 
+          "runs": 1, 
+          "geocoded commitments": 6736527922.469997, 
+          "locations": 1124, 
+          "years": "2000-2012", 
+          "geocoded disbursements": 3351062986.7000017, 
+          "total projects": 1582, 
+          "scores": [
+            {
+              "date_coverage": 5.88, 
+              "geographic_coverage": 25.66, 
+              "geographic_precision": 34.7, 
+              "compare_financials": 81.36, 
+              "sector_detail": 100.0
+            }
+          ], 
+          "total commitments": 17524929936.009995, 
+          "geocoded projects": 406, 
+          "total disbursements": 7338171507.3200035
+        }
+      ], 
       "TimorLesteAMP": [
         {
           "donors": 78, 
           "runs": 1, 
+          "geocoded projects": 499, 
           "geocoded commitments": 1554837187.9700007, 
           "locations": 3506, 
           "years": "1998-2015", 
@@ -20,37 +44,14 @@
             }
           ], 
           "total commitments": 2115955782.4700017, 
-          "geocoded projects": 499, 
           "total disbursements": 1431627332.559998
-        }
-      ], 
-      "HondurasAMP": [
-        {
-          "donors": 69, 
-          "runs": 2, 
-          "geocoded commitments": 3150754459.4130025, 
-          "locations": 5022, 
-          "years": "1995-2014", 
-          "geocoded disbursements": 1880837270.6410005, 
-          "total projects": 1076, 
-          "scores": [
-            {
-              "date_coverage": 85.59, 
-              "geographic_coverage": 35.22, 
-              "geographic_precision": 94.94, 
-              "compare_financials": 51.93, 
-              "sector_detail": 81.6
-            }
-          ], 
-          "total commitments": 6548670559.059006, 
-          "geocoded projects": 379, 
-          "total disbursements": 4612884549.299
         }
       ], 
       "IraqDAD": [
         {
           "donors": 21, 
           "runs": 2, 
+          "geocoded projects": 1324, 
           "geocoded commitments": 9659112600, 
           "locations": 3624, 
           "years": "2002-2014", 
@@ -66,8 +67,30 @@
             }
           ], 
           "total commitments": 9685503171, 
-          "geocoded projects": 1324, 
           "total disbursements": 3727768427
+        }
+      ], 
+      "HondurasAMP": [
+        {
+          "donors": 69, 
+          "runs": 2, 
+          "geocoded projects": 379, 
+          "geocoded commitments": 3150754459.4130025, 
+          "locations": 5022, 
+          "years": "1995-2014", 
+          "geocoded disbursements": 1880837270.6410005, 
+          "total projects": 1076, 
+          "scores": [
+            {
+              "date_coverage": 85.59, 
+              "geographic_coverage": 35.22, 
+              "geographic_precision": 94.94, 
+              "compare_financials": 51.93, 
+              "sector_detail": 81.6
+            }
+          ], 
+          "total commitments": 6548670559.059006, 
+          "total disbursements": 4612884549.299
         }
       ]
     }
