@@ -1,11 +1,33 @@
 {
   "GeocodedResearchRelease": [
     {
+      "TimorLesteAMP": [
+        {
+          "donors": 78, 
+          "runs": 1, 
+          "geocoded commitments": 1554837187.9700007, 
+          "locations": 3506, 
+          "years": "1998-2015", 
+          "geocoded disbursements": 1098890603.6899981, 
+          "total projects": 907, 
+          "scores": [
+            {
+              "date_coverage": 59.98, 
+              "geographic_coverage": 55.02, 
+              "geographic_precision": 78.44, 
+              "compare_financials": 53.83, 
+              "sector_detail": 100.0
+            }
+          ], 
+          "total commitments": 2115955782.4700017, 
+          "geocoded projects": 499, 
+          "total disbursements": 1431627332.559998
+        }
+      ], 
       "HondurasAMP": [
         {
           "donors": 69, 
           "runs": 2, 
-          "geocoded projects": 379, 
           "geocoded commitments": 3150754459.4130025, 
           "locations": 5022, 
           "years": "1995-2014", 
@@ -21,6 +43,7 @@
             }
           ], 
           "total commitments": 6548670559.059006, 
+          "geocoded projects": 379, 
           "total disbursements": 4612884549.299
         }
       ], 
@@ -28,7 +51,6 @@
         {
           "donors": 21, 
           "runs": 2, 
-          "geocoded projects": 1324, 
           "geocoded commitments": 9659112600, 
           "locations": 3624, 
           "years": "2002-2014", 
@@ -44,6 +66,7 @@
             }
           ], 
           "total commitments": 9685503171, 
+          "geocoded projects": 1324, 
           "total disbursements": 3727768427
         }
       ]
