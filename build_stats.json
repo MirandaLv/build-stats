@@ -1,1 +1,29 @@
-{}
+{
+  "GeocodedResearchRelease": [
+    {
+      "HondurasAMP": [
+        {
+          "donors": 69, 
+          "runs": 1, 
+          "geocoded commitments": 3150754459.4130025, 
+          "locations": 5022, 
+          "years": "1995-2014", 
+          "geocoded disbursements": 1880837270.6410005, 
+          "total projects": 1076, 
+          "scores": [
+            {
+              "date_coverage": 85.59, 
+              "geographic_coverage": 35.22, 
+              "geographic_precision": 94.94, 
+              "compare_financials": 51.93, 
+              "sector_detail": 81.6
+            }
+          ], 
+          "total commitments": 6548670559.059006, 
+          "geocoded projects": 379, 
+          "total disbursements": 4612884549.299
+        }
+      ]
+    }
+  ]
+}
