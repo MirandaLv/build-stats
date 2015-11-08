@@ -5,6 +5,7 @@
         {
           "donors": 56, 
           "runs": 1, 
+          "geocoded projects": 565, 
           "geocoded commitments": 10748426766.376005, 
           "locations": 2426, 
           "years": "1978-2014", 
@@ -20,15 +21,13 @@
             }
           ], 
           "total commitments": 26305209802.29197, 
-          "geocoded projects": 565, 
           "total disbursements": 15997709293.961966
         }
       ], 
       "TimorLesteAMP": [
         {
           "donors": 78, 
-          "runs": 1, 
-          "geocoded projects": 499, 
+          "runs": 2, 
           "geocoded commitments": 1554837187.9700007, 
           "locations": 3506, 
           "years": "1998-2015", 
@@ -44,6 +43,7 @@
             }
           ], 
           "total commitments": 2115955782.4700017, 
+          "geocoded projects": 499, 
           "total disbursements": 1431627332.559998
         }
       ], 
@@ -51,6 +51,7 @@
         {
           "donors": 28, 
           "runs": 3, 
+          "geocoded projects": 591, 
           "geocoded commitments": 2078759076, 
           "locations": 1839, 
           "years": "1988-2014", 
@@ -66,7 +67,6 @@
             }
           ], 
           "total commitments": 2106222756, 
-          "geocoded projects": 591, 
           "total disbursements": 6018907196
         }
       ], 
@@ -74,7 +74,6 @@
         {
           "donors": 93, 
           "runs": 4, 
-          "geocoded projects": 1560, 
           "geocoded commitments": 14443979755.589994, 
           "locations": 7164, 
           "years": "2001-2014", 
@@ -90,6 +89,7 @@
             }
           ], 
           "total commitments": 14494519368.079992, 
+          "geocoded projects": 1560, 
           "total disbursements": 1065468495.1700002
         }
       ], 
@@ -97,7 +97,6 @@
         {
           "donors": 100, 
           "runs": 1, 
-          "geocoded projects": 1208, 
           "geocoded commitments": 2249335593, 
           "locations": 3121, 
           "years": "2000-2014", 
@@ -113,106 +112,14 @@
             }
           ], 
           "total commitments": 2303515442, 
+          "geocoded projects": 1208, 
           "total disbursements": 1488733795
-        }
-      ], 
-      "DRCAMP": [
-        {
-          "donors": 117, 
-          "runs": 1, 
-          "geocoded commitments": 4278391820.329, 
-          "locations": 1750, 
-          "years": "1998-2014", 
-          "geocoded disbursements": 0, 
-          "total projects": 6842, 
-          "scores": [
-            {
-              "date_coverage": 8.46, 
-              "geographic_coverage": 3.74, 
-              "geographic_precision": 66.51, 
-              "compare_financials": 107.82, 
-              "sector_detail": 96.32
-            }
-          ], 
-          "total commitments": 45118121613.57601, 
-          "geocoded projects": 256, 
-          "total disbursements": 0
-        }
-      ], 
-      "SenegalAMP": [
-        {
-          "donors": 79, 
-          "runs": 2, 
-          "geocoded commitments": 6736527922.469997, 
-          "locations": 1124, 
-          "years": "2000-2012", 
-          "geocoded disbursements": 3351062986.7000017, 
-          "total projects": 1582, 
-          "scores": [
-            {
-              "date_coverage": 5.88, 
-              "geographic_coverage": 25.66, 
-              "geographic_precision": 34.7, 
-              "compare_financials": 81.36, 
-              "sector_detail": 100.0
-            }
-          ], 
-          "total commitments": 17524929936.009995, 
-          "geocoded projects": 406, 
-          "total disbursements": 7338171507.3200035
-        }
-      ], 
-      "NepalAMP": [
-        {
-          "donors": 110, 
-          "runs": 1, 
-          "geocoded projects": 475, 
-          "geocoded commitments": 5732815865, 
-          "locations": 20952, 
-          "years": "1997-2014", 
-          "geocoded disbursements": 3187409375, 
-          "total projects": 873, 
-          "scores": [
-            {
-              "date_coverage": 0.0, 
-              "geographic_coverage": 54.41, 
-              "geographic_precision": 99.09, 
-              "compare_financials": 73.48, 
-              "sector_detail": 89.92
-            }
-          ], 
-          "total commitments": 8923101534, 
-          "total disbursements": 4287879756
-        }
-      ], 
-      "HondurasAMP": [
-        {
-          "donors": 69, 
-          "runs": 2, 
-          "geocoded projects": 379, 
-          "geocoded commitments": 3150754459.4130025, 
-          "locations": 5022, 
-          "years": "1995-2014", 
-          "geocoded disbursements": 1880837270.6410005, 
-          "total projects": 1076, 
-          "scores": [
-            {
-              "date_coverage": 85.59, 
-              "geographic_coverage": 35.22, 
-              "geographic_precision": 94.94, 
-              "compare_financials": 51.93, 
-              "sector_detail": 81.6
-            }
-          ], 
-          "total commitments": 6548670559.059006, 
-          "total disbursements": 4612884549.299
         }
       ], 
       "IraqDAD": [
         {
           "donors": 21, 
           "runs": 2, 
-          "geocoded projects": 1324, 
           "geocoded commitments": 9659112600, 
           "locations": 3624, 
           "years": "2002-2014", 
@@ -228,7 +135,100 @@
             }
           ], 
           "total commitments": 9685503171, 
+          "geocoded projects": 1324, 
           "total disbursements": 3727768427
+        }
+      ], 
+      "DRCAMP": [
+        {
+          "donors": 117, 
+          "runs": 1, 
+          "geocoded projects": 256, 
+          "geocoded commitments": 4278391820.329, 
+          "locations": 1750, 
+          "years": "1998-2014", 
+          "geocoded disbursements": 0, 
+          "total projects": 6842, 
+          "scores": [
+            {
+              "date_coverage": 8.46, 
+              "geographic_coverage": 3.74, 
+              "geographic_precision": 66.51, 
+              "compare_financials": 107.82, 
+              "sector_detail": 96.32
+            }
+          ], 
+          "total commitments": 45118121613.57601, 
+          "total disbursements": 0
+        }
+      ], 
+      "NepalAMP": [
+        {
+          "donors": 110, 
+          "runs": 1, 
+          "geocoded commitments": 5732815865, 
+          "locations": 20952, 
+          "years": "1997-2014", 
+          "geocoded disbursements": 3187409375, 
+          "total projects": 873, 
+          "scores": [
+            {
+              "date_coverage": 0.0, 
+              "geographic_coverage": 54.41, 
+              "geographic_precision": 99.09, 
+              "compare_financials": 73.48, 
+              "sector_detail": 89.92
+            }
+          ], 
+          "total commitments": 8923101534, 
+          "geocoded projects": 475, 
+          "total disbursements": 4287879756
+        }
+      ], 
+      "HondurasAMP": [
+        {
+          "donors": 69, 
+          "runs": 2, 
+          "geocoded commitments": 3150754459.4130025, 
+          "locations": 5022, 
+          "years": "1995-2014", 
+          "geocoded disbursements": 1880837270.6410005, 
+          "total projects": 1076, 
+          "scores": [
+            {
+              "date_coverage": 85.59, 
+              "geographic_coverage": 35.22, 
+              "geographic_precision": 94.94, 
+              "compare_financials": 51.93, 
+              "sector_detail": 81.6
+            }
+          ], 
+          "total commitments": 6548670559.059006, 
+          "geocoded projects": 379, 
+          "total disbursements": 4612884549.299
+        }
+      ], 
+      "SenegalAMP": [
+        {
+          "donors": 79, 
+          "runs": 2, 
+          "geocoded projects": 406, 
+          "geocoded commitments": 6736527922.469997, 
+          "locations": 1124, 
+          "years": "2000-2012", 
+          "geocoded disbursements": 3351062986.7000017, 
+          "total projects": 1582, 
+          "scores": [
+            {
+              "date_coverage": 5.88, 
+              "geographic_coverage": 25.66, 
+              "geographic_precision": 34.7, 
+              "compare_financials": 81.36, 
+              "sector_detail": 100.0
+            }
+          ], 
+          "total commitments": 17524929936.009995, 
+          "total disbursements": 7338171507.3200035
         }
       ]
     }
