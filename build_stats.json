@@ -1,1 +1,31 @@
-{}
+{
+  "GeocodedResearchRelease": [
+    {
+      "AfghanistanDAD": [
+        {
+          "donors": 93, 
+          "runs": 1, 
+          "total_projects": 1580, 
+          "end_year": "2014", 
+          "geocoded_commitments": 14443979755.589994, 
+          "geocoded_projects": 1560, 
+          "start_year": "2001", 
+          "last_run": "2015_11_09 10_39_48", 
+          "locations": 7164, 
+          "geocoded_disbursements": 1060224656.6800002, 
+          "total_disbursements": 1065468495.1700002, 
+          "total_commitments": 14494519368.079992, 
+          "scores": [
+            {
+              "date_coverage": 100.0, 
+              "geographic_coverage": 98.73, 
+              "geographic_precision": 28.88, 
+              "compare_financials": 21.27, 
+              "sector_detail": 95.7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
