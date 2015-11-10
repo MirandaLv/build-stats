@@ -16,7 +16,7 @@ This repo houses build-stats for dataset creation
 | scores | holds an array of scores relevant to the dataset type |
 | total_commitments | the total sum of commitments (USD2011) for projects in the dataset |
 | total_disbursements | the total sum of disbursements (USD) for projects in the dataset |
-| date_coverage | percentage of projects that have full date information (starting and ending date) |
+| date_coverage | percentage of projects that have start date |
 | geographic_coverage | the percentage of projects that are geocoded |
 | geographic_precision | percentage of all locations that have a subnational locations |
 | compare_financials | compares the sum of commitments from the projects table to the sum of commitments from the AidData Core Database |
