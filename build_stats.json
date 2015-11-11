@@ -3,6 +3,7 @@
     {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "TimorLesteAMP": [
         {
           "donors": 78, 
@@ -126,6 +127,29 @@
               "geographic_precision": 94.94, 
               "compare_financials": 51.93, 
               "sector_detail": 81.6
+>>>>>>> Stashed changes
+=======
+      "NepalAMP": [
+        {
+          "donors": 110, 
+          "runs": 1, 
+          "total_projects": 873, 
+          "end_year": "2014", 
+          "geocoded_commitments": 5732815865, 
+          "geocoded_projects": 475, 
+          "start_year": "1997", 
+          "last_run": "2015-11-10T20:25:09.845835", 
+          "locations": 20952, 
+          "geocoded_disbursements": 3187409375, 
+          "total_disbursements": 4287879756, 
+          "total_commitments": 8923101534, 
+          "scores": [
+            {
+              "date_coverage": 82.13, 
+              "geographic_coverage": 54.41, 
+              "geographic_precision": 99.09, 
+              "compare_financials": 73.48, 
+              "sector_detail": 89.92
 >>>>>>> Stashed changes
             }
           ]
