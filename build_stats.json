@@ -1,87 +1,20 @@
 {
   "GeocodedResearchRelease": [
     {
-      "TimorLesteAMP": [
-        {
-          "donors": 78, 
-          "runs": 1, 
-          "total_projects": 907, 
-          "end_year": "2015", 
-          "geocoded_commitments": 1554837187.9700007, 
-          "geocoded_projects": 499, 
-          "start_year": "1998", 
-          "last_run": "2015-11-10T18:59:31.910887", 
-          "locations": 3506, 
-          "geocoded_disbursements": 1098890603.6899981, 
-          "total_disbursements": 1431627332.559998, 
-          "total_commitments": 2115955782.4700017, 
-          "scores": [
-            {
-              "date_coverage": 83.13, 
-              "geographic_coverage": 55.02, 
-              "geographic_precision": 78.44, 
-              "compare_financials": 53.83, 
-              "sector_detail": 100.0
-            }
-          ]
-        }
-      ], 
-      "AfghanistanDAD": [
-        {
-          "donors": 93, 
-          "runs": 1, 
-          "total_projects": 1580, 
-          "end_year": "2014", 
-          "scores": [
-            {
-              "date_coverage": 100.0, 
-              "geographic_coverage": 98.73, 
-              "geographic_precision": 28.88, 
-              "compare_financials": 21.27, 
-              "sector_detail": 95.7
-            }
-          ], 
-          "geocoded_projects": 1560, 
-          "start_year": "2001", 
-          "last_run": "2015-11-10T18:55:19.560219", 
-          "locations": 7164, 
-          "geocoded_disbursements": 1060224656.6800002, 
-          "total_disbursements": 1065468495.1700002, 
-          "total_commitments": 14494519368.079992, 
-          "geocoded_commitments": 14443979755.589994
-        }
-      ], 
-      "SomaliaDAD": [
-        {
-          "donors": 100, 
-          "runs": 1, 
-          "total_projects": 1217, 
-          "end_year": "2014", 
-          "geocoded_commitments": 2249335593, 
-          "geocoded_projects": 1208, 
-          "start_year": "2000", 
-          "last_run": "2015-11-10T19:04:08.667410", 
-          "locations": 3121, 
-          "geocoded_disbursements": 1446836907, 
-          "total_disbursements": 1488733795, 
-          "total_commitments": 2303515442, 
-          "scores": [
-            {
-              "date_coverage": 100.0, 
-              "geographic_coverage": 99.26, 
-              "geographic_precision": 32.81, 
-              "compare_financials": 36.35, 
-              "sector_detail": 98.03
-            }
-          ]
-        }
-      ], 
       "ColombiaAIMS": [
         {
           "donors": 135, 
           "runs": 1, 
           "total_projects": 693, 
           "end_year": "2013", 
+          "geocoded_commitments": 810396377.7100002, 
+          "geocoded_projects": 665, 
+          "start_year": "1994", 
+          "last_run": "2015-11-10T12:31:18.303554", 
+          "locations": 2979, 
+          "geocoded_disbursements": 0, 
+          "total_disbursements": 0, 
+          "total_commitments": 832342858.7300001, 
           "scores": [
             {
               "date_coverage": 100.0, 
@@ -90,31 +23,15 @@
               "compare_financials": 1.11, 
               "sector_detail": 95.96
             }
-          ], 
-          "geocoded_projects": 665, 
-          "start_year": "1994", 
-          "last_run": "2015-11-10T12:31:18.303554", 
-          "locations": 2979, 
-          "geocoded_disbursements": 0, 
-          "total_disbursements": 0, 
-          "total_commitments": 832342858.7300001, 
-          "geocoded_commitments": 810396377.7100002
+          ]
         }
       ], 
       "NepalAMP": [
         {
           "donors": 110, 
-          "runs": 1, 
+          "runs": 2, 
           "total_projects": 873, 
           "end_year": "2014", 
-          "geocoded_commitments": 5732815865, 
-          "geocoded_projects": 475, 
-          "start_year": "1997", 
-          "last_run": "2015-11-10T12:35:02.124036", 
-          "locations": 20952, 
-          "geocoded_disbursements": 3187409375, 
-          "total_disbursements": 4287879756, 
-          "total_commitments": 8923101534, 
           "scores": [
             {
               "date_coverage": 82.13, 
@@ -123,32 +40,65 @@
               "compare_financials": 73.48, 
               "sector_detail": 89.92
             }
-          ]
+          ], 
+          "geocoded_projects": 475, 
+          "start_year": "1997", 
+          "last_run": "2015-11-10T19:04:27.700850", 
+          "locations": 20952, 
+          "geocoded_disbursements": 3187409375, 
+          "total_disbursements": 4287879756, 
+          "total_commitments": 8923101534, 
+          "geocoded_commitments": 5732815865
         }
       ], 
-      "IraqDAD": [
+      "TimorLesteAMP": [
         {
-          "donors": 21, 
+          "donors": 78, 
           "runs": 1, 
-          "total_projects": 1338, 
+          "total_projects": 907, 
+          "end_year": "2015", 
+          "scores": [
+            {
+              "date_coverage": 83.13, 
+              "geographic_coverage": 55.02, 
+              "geographic_precision": 78.44, 
+              "compare_financials": 53.83, 
+              "sector_detail": 100.0
+            }
+          ], 
+          "geocoded_projects": 499, 
+          "start_year": "1998", 
+          "last_run": "2015-11-10T18:59:31.910887", 
+          "locations": 3506, 
+          "geocoded_disbursements": 1098890603.6899981, 
+          "total_disbursements": 1431627332.559998, 
+          "total_commitments": 2115955782.4700017, 
+          "geocoded_commitments": 1554837187.9700007
+        }
+      ], 
+      "AfghanistanDAD": [
+        {
+          "donors": 93, 
+          "runs": 1, 
+          "total_projects": 1580, 
           "end_year": "2014", 
+          "geocoded_commitments": 14443979755.589994, 
+          "geocoded_projects": 1560, 
+          "start_year": "2001", 
+          "last_run": "2015-11-10T18:55:19.560219", 
+          "locations": 7164, 
+          "geocoded_disbursements": 1060224656.6800002, 
+          "total_disbursements": 1065468495.1700002, 
+          "total_commitments": 14494519368.079992, 
           "scores": [
             {
               "date_coverage": 100.0, 
-              "geographic_coverage": 98.95, 
-              "geographic_precision": 83.64, 
-              "compare_financials": 10.79, 
-              "sector_detail": 89.76
+              "geographic_coverage": 98.73, 
+              "geographic_precision": 28.88, 
+              "compare_financials": 21.27, 
+              "sector_detail": 95.7
             }
-          ], 
-          "geocoded_projects": 1324, 
-          "start_year": "2002", 
-          "last_run": "2015-11-10T19:01:59.538804", 
-          "locations": 3624, 
-          "geocoded_disbursements": 3710551718, 
-          "total_disbursements": 3727768427, 
-          "total_commitments": 9685503171, 
-          "geocoded_commitments": 9659112600
+          ]
         }
       ]
     }
