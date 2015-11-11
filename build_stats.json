@@ -1,1 +1,31 @@
-{}
+{
+  "GeocodedResearchRelease": [
+    {
+      "TimorLesteAMP": [
+        {
+          "donors": 78, 
+          "runs": 1, 
+          "total_projects": 907, 
+          "end_year": "2015", 
+          "geocoded_commitments": 1554837187.9700007, 
+          "geocoded_projects": 499, 
+          "start_year": "1998", 
+          "last_run": "2015-11-10T20:22:10.433136", 
+          "locations": 3506, 
+          "geocoded_disbursements": 1098890603.6899981, 
+          "total_disbursements": 1431627332.559998, 
+          "total_commitments": 2115955782.4700017, 
+          "scores": [
+            {
+              "date_coverage": 83.13, 
+              "geographic_coverage": 55.02, 
+              "geographic_precision": 78.44, 
+              "compare_financials": 53.83, 
+              "sector_detail": 100.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
