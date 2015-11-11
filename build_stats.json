@@ -2,6 +2,7 @@
   "GeocodedResearchRelease": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "TimorLesteAMP": [
         {
           "donors": 78, 
@@ -45,6 +46,29 @@
               "geographic_precision": 83.64, 
               "compare_financials": 10.79, 
               "sector_detail": 89.76
+>>>>>>> Stashed changes
+=======
+      "SenegalAMP": [
+        {
+          "donors": 79, 
+          "runs": 1, 
+          "total_projects": 1582, 
+          "end_year": "2012", 
+          "geocoded_commitments": 6736527922.469997, 
+          "geocoded_projects": 406, 
+          "start_year": "2000", 
+          "last_run": "2015-11-10T20:22:45.741834", 
+          "locations": 1124, 
+          "geocoded_disbursements": 3351062986.7000017, 
+          "total_disbursements": 7338171507.3200035, 
+          "total_commitments": 17524929936.009995, 
+          "scores": [
+            {
+              "date_coverage": 42.73, 
+              "geographic_coverage": 25.66, 
+              "geographic_precision": 34.7, 
+              "compare_financials": 81.36, 
+              "sector_detail": 100.0
 >>>>>>> Stashed changes
             }
           ]
