@@ -51,41 +51,16 @@
           "geocoded_commitments": 14443979755.589994
         }
       ], 
-      "SomaliaDAD": [
-        {
-          "donors": 100, 
-          "runs": 1, 
-          "total_projects": 1217, 
-          "end_year": "2014", 
-          "geocoded_commitments": 2249335593, 
-          "geocoded_projects": 1208, 
-          "start_year": "2000", 
-          "last_run": "2015-11-10T19:18:10.363456", 
-          "locations": 3121, 
-          "geocoded_disbursements": 1446836907, 
-          "total_disbursements": 1488733795, 
-          "total_commitments": 2303515442, 
-          "scores": [
-            {
-              "date_coverage": 100.0, 
-              "geographic_coverage": 99.26, 
-              "geographic_precision": 32.81, 
-              "compare_financials": 36.35, 
-              "sector_detail": 98.03
-            }
-          ]
-        }
-      ], 
       "DRCAMP": [
         {
           "donors": 117, 
-          "runs": 1, 
+          "runs": 2, 
           "total_projects": 6842, 
           "end_year": "2014", 
           "geocoded_commitments": 4278391820.329, 
           "geocoded_projects": 256, 
           "start_year": "1998", 
-          "last_run": "2015-11-10T19:06:56.257505", 
+          "last_run": "2015-11-10T19:18:16.579587", 
           "locations": 1750, 
           "geocoded_disbursements": 0, 
           "total_disbursements": 0, 
@@ -104,7 +79,7 @@
       "ColombiaAIMS": [
         {
           "donors": 135, 
-          "runs": 2, 
+          "runs": 1, 
           "total_projects": 693, 
           "end_year": "2013", 
           "scores": [
@@ -118,7 +93,7 @@
           ], 
           "geocoded_projects": 665, 
           "start_year": "1994", 
-          "last_run": "2015-11-10T19:14:51.573680", 
+          "last_run": "2015-11-10T12:31:18.303554", 
           "locations": 2979, 
           "geocoded_disbursements": 0, 
           "total_disbursements": 0, 
@@ -149,31 +124,6 @@
               "sector_detail": 89.92
             }
           ]
-        }
-      ], 
-      "HondurasAMP": [
-        {
-          "donors": 69, 
-          "runs": 1, 
-          "total_projects": 1076, 
-          "end_year": "2014", 
-          "scores": [
-            {
-              "date_coverage": 93.4, 
-              "geographic_coverage": 35.22, 
-              "geographic_precision": 94.94, 
-              "compare_financials": 51.93, 
-              "sector_detail": 81.6
-            }
-          ], 
-          "geocoded_projects": 379, 
-          "start_year": "1995", 
-          "last_run": "2015-11-10T19:16:38.393002", 
-          "locations": 5022, 
-          "geocoded_disbursements": 1880837270.6410005, 
-          "total_disbursements": 4612884549.299, 
-          "total_commitments": 6548670559.059006, 
-          "geocoded_commitments": 3150754459.4130025
         }
       ], 
       "IraqDAD": [
