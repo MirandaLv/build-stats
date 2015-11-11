@@ -28,6 +28,7 @@
           "geocoded_commitments": 1554837187.9700007
         }
       ], 
+<<<<<<< Updated upstream
       "NigeriaDAD": [
         {
           "donors": 28, 
@@ -102,6 +103,29 @@
               "geographic_precision": 39.48, 
               "compare_financials": 3.2, 
               "sector_detail": 85.35
+>>>>>>> Stashed changes
+=======
+      "HondurasAMP": [
+        {
+          "donors": 69, 
+          "runs": 1, 
+          "total_projects": 1076, 
+          "end_year": "2014", 
+          "geocoded_commitments": 3150754459.4130025, 
+          "geocoded_projects": 379, 
+          "start_year": "1995", 
+          "last_run": "2015-11-10T20:24:51.050019", 
+          "locations": 5022, 
+          "geocoded_disbursements": 1880837270.6410005, 
+          "total_disbursements": 4612884549.299, 
+          "total_commitments": 6548670559.059006, 
+          "scores": [
+            {
+              "date_coverage": 93.4, 
+              "geographic_coverage": 35.22, 
+              "geographic_precision": 94.94, 
+              "compare_financials": 51.93, 
+              "sector_detail": 81.6
 >>>>>>> Stashed changes
             }
           ]
