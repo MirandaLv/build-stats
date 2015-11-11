@@ -1,6 +1,7 @@
 {
   "GeocodedResearchRelease": [
     {
+<<<<<<< Updated upstream
       "TimorLesteAMP": [
         {
           "donors": 78, 
@@ -22,6 +23,29 @@
               "geographic_precision": 78.44, 
               "compare_financials": 53.83, 
               "sector_detail": 100.0
+=======
+      "IraqDAD": [
+        {
+          "donors": 21, 
+          "runs": 1, 
+          "total_projects": 1338, 
+          "end_year": "2014", 
+          "geocoded_commitments": 9659112600, 
+          "geocoded_projects": 1324, 
+          "start_year": "2002", 
+          "last_run": "2015-11-10T20:23:00.560103", 
+          "locations": 3624, 
+          "geocoded_disbursements": 3710551718, 
+          "total_disbursements": 3727768427, 
+          "total_commitments": 9685503171, 
+          "scores": [
+            {
+              "date_coverage": 100.0, 
+              "geographic_coverage": 98.95, 
+              "geographic_precision": 83.64, 
+              "compare_financials": 10.79, 
+              "sector_detail": 89.76
+>>>>>>> Stashed changes
             }
           ]
         }
