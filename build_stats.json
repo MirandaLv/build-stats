@@ -9,7 +9,15 @@
           "runs": 1, 
           "total_projects": 907, 
           "end_year": "2015", 
-          "geocoded_commitments": 1554837187.9700007, 
+          "scores": [
+            {
+              "date_coverage": 83.13, 
+              "geographic_coverage": 55.02, 
+              "geographic_precision": 78.44, 
+              "compare_financials": 53.83, 
+              "sector_detail": 100.0
+            }
+          ], 
           "geocoded_projects": 499, 
           "start_year": "1998", 
           "last_run": "2015-11-10T20:22:10.433136", 
@@ -17,8 +25,26 @@
           "geocoded_disbursements": 1098890603.6899981, 
           "total_disbursements": 1431627332.559998, 
           "total_commitments": 2115955782.4700017, 
+          "geocoded_commitments": 1554837187.9700007
+        }
+      ], 
+      "NigeriaDAD": [
+        {
+          "donors": 28, 
+          "runs": 1, 
+          "total_projects": 621, 
+          "end_year": "2014", 
+          "geocoded_commitments": 2078759076, 
+          "geocoded_projects": 591, 
+          "start_year": "1988", 
+          "last_run": "2015-11-10T20:23:45.348975", 
+          "locations": 1839, 
+          "geocoded_disbursements": 5862320254, 
+          "total_disbursements": 6018907196, 
+          "total_commitments": 2106222756, 
           "scores": [
             {
+<<<<<<< Updated upstream
               "date_coverage": 83.13, 
               "geographic_coverage": 55.02, 
               "geographic_precision": 78.44, 
@@ -69,6 +95,13 @@
               "geographic_precision": 34.7, 
               "compare_financials": 81.36, 
               "sector_detail": 100.0
+>>>>>>> Stashed changes
+=======
+              "date_coverage": 22.38, 
+              "geographic_coverage": 95.17, 
+              "geographic_precision": 39.48, 
+              "compare_financials": 3.2, 
+              "sector_detail": 85.35
 >>>>>>> Stashed changes
             }
           ]
