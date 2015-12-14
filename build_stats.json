@@ -175,32 +175,7 @@
           "total_commitments": 832342858.7300001, 
           "geocoded_commitments": 810396377.7100002
         }
-      ], 
-      "WorldBankAIMs": [
-        {
-          "donors": 1, 
-          "runs": 6, 
-          "total_projects": 5881, 
-          "end_year": "2014", 
-          "scores": [
-            {
-              "date_coverage": 100.0, 
-              "geographic_coverage": 96.67, 
-              "geographic_precision": 72.53, 
-              "compare_financials": 25477200.62, 
-              "sector_detail": 98.81
-            }
-          ], 
-          "geocoded_projects": 5685, 
-          "start_year": "1995", 
-          "last_run": "2015-11-23T15:17:36.489806", 
-          "locations": 61358, 
-          "geocoded_disbursements": 328754426043.019, 
-          "total_disbursements": 332090145796.6187, 
-          "total_commitments": 570909930000.0, 
-          "geocoded_commitments": 559169710000.0
-        }
-      ], 
+      ],
       "WorldBank": [
         {
           "donors": 1, 
